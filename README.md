@@ -10,7 +10,7 @@ By default, it connects to `evalstate/FLUX.1-schnell` providing Image Generation
 
 ## Installation
 
-NPM Package is `@llmindset/mcp-hfspsace`.
+NPM Package is `@llmindset/mcp-hfspace`.
 
 Install a recent version of [NodeJS](https://nodejs.org/en/download) for your platform, then add the following to the `mcpServers` section of your `claude_desktop_config.json` file:
 
